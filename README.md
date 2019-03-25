@@ -1,4 +1,4 @@
-# Eat Da Burger
+# Eat Da Burger!
 
 ![](https://media.giphy.com/media/28OCvphvegHvIC8HE2/giphy.gif)
 
