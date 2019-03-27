@@ -3,16 +3,14 @@ burger_name,
 devoured
 ) VALUES
 (
-"Double Double Cheese Burger",
+"Krusty Burger",
 0
 ),
 (
-"Whatta Burger",
+"Good Burger",
 0
 ),
 (
-"Vegan Burger",
+"Burger World Burger",
 0
 );
-
-SELECT * FROM burgers
