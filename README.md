@@ -4,7 +4,7 @@
 
 ["Click here to launch the app"](https://eat-da-burger-01.herokuapp.com/)
 
-Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. The app utiliizes MySQL, Node, Express, Handlebars and a homemade ORM. MVC design pattern implemented. Node and MySQL query and route data in the app, and Handlebars generates the HTML.
+Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. The app utilizes MySQL, Node, Express, Handlebars and a homemade ORM. MVC design pattern implemented. Node and MySQL query and route data in the app, and Handlebars generates the HTML.
 
 
 How the app works:
